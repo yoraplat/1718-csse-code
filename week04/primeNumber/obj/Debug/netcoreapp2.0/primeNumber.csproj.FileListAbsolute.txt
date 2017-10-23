@@ -1,0 +1,10 @@
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\bin\Debug\netcoreapp2.0\primeNumber.deps.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\bin\Debug\netcoreapp2.0\primeNumber.runtimeconfig.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\bin\Debug\netcoreapp2.0\primeNumber.runtimeconfig.dev.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\bin\Debug\netcoreapp2.0\primeNumber.dll
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\bin\Debug\netcoreapp2.0\primeNumber.pdb
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\obj\Debug\netcoreapp2.0\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\obj\Debug\netcoreapp2.0\primeNumber.AssemblyInfoInputs.cache
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\obj\Debug\netcoreapp2.0\primeNumber.AssemblyInfo.cs
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\obj\Debug\netcoreapp2.0\primeNumber.dll
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\primeNumber\obj\Debug\netcoreapp2.0\primeNumber.pdb

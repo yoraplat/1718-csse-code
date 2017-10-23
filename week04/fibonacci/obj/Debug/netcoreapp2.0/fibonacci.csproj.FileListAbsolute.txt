@@ -1,0 +1,10 @@
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.deps.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.runtimeconfig.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.runtimeconfig.dev.json
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.dll
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.pdb
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.AssemblyInfo.cs
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.dll
+C:\Users\Yoram\OneDrive\Documents\School\CSSE\code\1718.csse\week04\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.pdb
